@@ -77,4 +77,22 @@
         display: none;
     }
 
+    .footer-mid-row2 {
+    flex-direction: column;
+    gap: 20px;
+    padding: 20px 10px;
+    text-align: center;
+    }
+
+    .footer-mid-row2 p {
+    flex-basis: auto;
+    padding: 0;
+    }
+
+    .appIcon {
+    flex-basis: auto;
+    justify-content: center;
+    flex-wrap: wrap;
+    }
+
 }
